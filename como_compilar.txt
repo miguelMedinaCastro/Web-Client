@@ -1,0 +1,1 @@
+basta instalar go e rodar o executavel ./client
